@@ -23,6 +23,15 @@ The analysis is based on 3,900 customer transactions and covers data cleaning, e
 * Discount and promotion effectiveness
 * Revenue contribution by age group
 
+## Dashboard Preview
+<img width="1311" height="716" alt="dashboard" src="https://github.com/user-attachments/assets/a6a527cf-7848-4f72-b8be-e24829fd893c" />
+
+## Key Outcomes
+* Prepared and validated a clean analytical dataset from raw transaction records.
+* Answered business-focused questions using SQL and PostgreSQL.
+* Developed an interactive Power BI dashboard for stakeholder reporting.
+* Generated recommendations related to customer retention, subscription growth, product positioning, and promotional strategies.
+
 ## Repository Structure
 ```text
 customer-purchase-behavior-analysis/
@@ -45,14 +54,3 @@ customer-purchase-behavior-analysis/
 │
 └── README.md
 ```
-
-## Key Outcomes
-* Prepared and validated a clean analytical dataset from raw transaction records.
-* Answered business-focused questions using SQL and PostgreSQL.
-* Developed an interactive Power BI dashboard for stakeholder reporting.
-* Generated recommendations related to customer retention, subscription growth, product positioning, and promotional strategies.
-
-## Dashboard Preview
-<img width="1311" height="716" alt="dashboard" src="https://github.com/user-attachments/assets/a6a527cf-7848-4f72-b8be-e24829fd893c" />
-
----
