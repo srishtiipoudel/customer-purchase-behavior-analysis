@@ -56,5 +56,3 @@ customer-purchase-behavior-analysis/
 <img width="1311" height="716" alt="dashboard" src="https://github.com/user-attachments/assets/a6a527cf-7848-4f72-b8be-e24829fd893c" />
 
 ---
-
-This project demonstrates a complete analytics workflow, from data preparation and SQL analysis to business reporting and dashboard development.
